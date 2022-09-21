@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vremyavnikuda (Andrew)
-- 👀 I’m interested in python,c++,c# 
-- 🌱 I’m currently : python_backend_developer, python_machine_learning, c#_development
+- 👀 I’m interested in python
+- 🌱 I’m currently : 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
