@@ -2,7 +2,7 @@
 - 👀 I’m interested in python,c#,java
 - 🌱 I’m currently : 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : telegram:@vremayvnikuda
 
 <!---
 vremyavnikuda/vremyavnikuda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
