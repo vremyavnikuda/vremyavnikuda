@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vremyavnikuda (Andrew)
 - 👀 I’m interested in python,c#,java
-- 🌱 I’m currently : 24/7
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently : I'm wasting my time 24/7
+- 💞️ I’m looking to collaborate on ... : 
 - 📫 How to reach me : telegram:@vremayvnikuda
 
 <!---
