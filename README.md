@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vremyavnikuda (Andrew)
-- 👀 I’m interested in python
+- 👀 I’m interested in python,c#,java
 - 🌱 I’m currently : 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
