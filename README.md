@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vremyavnikuda (Andrew)
-- 👀 I’m interested in python,c#,java
+- 👀 I’m interested in python,c++
 - 🌱 I’m currently : wasting my life going nowhere 24/7
 - 💞️ I’m looking to collaborate on ... : 
 - 📫 How to reach me : telegram:@vremayvnikuda
