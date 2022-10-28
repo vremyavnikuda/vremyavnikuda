@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vremyavnikuda (Andrew)
 - 🌱 I’m currently : wasting my life going nowhere 24/7
-- 💞️ I’m looking to collaborate on ... : 
 - 📫 How to reach me : telegram:@vremayvnikuda
 
 <!---
