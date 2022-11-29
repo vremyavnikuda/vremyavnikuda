@@ -1,12 +1,6 @@
 - 👋 Hi, I’m @vremyavnikuda (Andrew)
 - 🌱 I’m currently : wasting my life going nowhere 24/7
 - 📫 How to reach me : telegram:@vremayvnikuda
-<div>
-  <a href="https://github.com/vremyavnikuda">
-  <img height="180em" src="https://vercel.com/vremyavnikuda/grs/DLqr2nLzMUpaBLJdJr4VKeUJia8Y/api?username=vremyavnikuda&hide=contribs&count_private=true&show_icons=true&theme=transparent" />
-  </a>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"/>
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg"/>
