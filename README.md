@@ -3,7 +3,7 @@
 - 📫 How to reach me : telegram:@vremayvnikuda
 <div>
   <a href="https://github.com/vremyavnikuda">
-  <img height="180em" src="http://grs-git-main-vremyavnikuda.vercel.app//api?username=vremyavnikuda&hide=contribs&count_private=true&show_icons=true&theme=transparent" />
+  <img height="180em" src="http://grs-vremyavnikuda.vercel.app/api?username=vremyavnikuda&hide=contribs&count_private=true&show_icons=true&theme=transparent" />
   </a>
 </div>
 
