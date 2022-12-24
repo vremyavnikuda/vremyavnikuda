@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @vremyavnikuda (Andrew)
 - 🌱 I’m currently : wasting my life going nowhere 24/7
 - 📫 How to reach me : telegram:@vremayvnikuda
+
+
+<img src="https://www.codewars.com/users/vremyavnikuda/badges/large" alt="Codewars badge"></a>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"/>
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg"/>
