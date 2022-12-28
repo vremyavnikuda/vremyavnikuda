@@ -17,6 +17,7 @@
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg"/>
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg"/>
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/>
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg"/>
 </div>
 
 <!---
