@@ -28,9 +28,8 @@ jobs:
           plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
 #Labels
-          #filename: metrics.plugin.topics.Labels.svg
-          
-          base: ""
+          filename: metrics.plugin.topics.Labels.svg
+
           plugin_topics: yes
           plugin_topics_limit: 12
 
