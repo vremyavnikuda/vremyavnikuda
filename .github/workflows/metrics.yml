@@ -28,7 +28,7 @@ jobs:
           plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
 #Labels
-          filename: metrics.plugin.topics.Labels.svg
+          #filename: metrics.plugin.topics.Labels.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_topics: yes
