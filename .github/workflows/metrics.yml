@@ -33,4 +33,10 @@ jobs:
           plugin_topics_limit: 0
           plugin_topics_mode: icons
 
+          #Recent activity
+          filename: metrics.plugin.activity.svg
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
 
