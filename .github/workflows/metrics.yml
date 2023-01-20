@@ -15,56 +15,42 @@ jobs:
       - name: General
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          filename: general.svg
+          base: main
+          base_indepth: yes
+          config_order: base.header, isocalendar, languages, notable, discussions, topics
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
-      - name: Most used
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.languages.details.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
           plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 4
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, scala, c, c++, python, ejs
+          plugin_languages_details: lines, bytes-size, percentage
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 2
+          plugin_topics: yes
+          plugin_topics_limit: 6
+          plugin_topics_mode: icons
+          plugin_notable: yes
 
-      - name: Compact display
+      - name: 🦑 Recent activity
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.achievements.compact.svg
+          filename: metrics.plugin.recent_activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: pr, release, fork, review, ref/create
           plugin_achievements: yes
           plugin_achievements_only: >-
             polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
             scripter, packager, explorer, infographile, manager
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
-
-      - name: Recent activity
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.activity.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 0
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
-
-      - name: Gists
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.gists.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_gists: yes
 
 
 
