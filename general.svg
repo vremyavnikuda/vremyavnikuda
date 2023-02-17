@@ -1078,15 +1078,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 904kb of code in 585 edited files across 318 commits over last 14 days</small>
+                <small>estimation from 887kb of code in 573 edited files across 300 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="401.43027839950713" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="401.43027839950713" y="0" width="41.20506469987654" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="442.6353430993837" y="0" width="17.36465690061632" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="401.5958845384396" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="401.5958845384396" y="0" width="41.032294941411834" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="442.6281794798514" y="0" width="17.371820520148614" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1100,7 +1100,7 @@
                             <small>
                                 <div>13.6k lines</div>
                                 <div>351 kB</div>
-                                <div>87.27%</div>
+                                <div>87.3%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1111,9 +1111,9 @@
                                 Java
                             </div>
                             <small>
-                                <div>1.04k lines</div>
-                                <div>36 kB</div>
-                                <div>8.96%</div>
+                                <div>1.03k lines</div>
+                                <div>35.8 kB</div>
+                                <div>8.92%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1126,7 +1126,7 @@
                             <small>
                                 <div>542 lines</div>
                                 <div>15.2 kB</div>
-                                <div>3.77%</div>
+                                <div>3.78%</div>
                             </small>
                         </div>
                     </section>
