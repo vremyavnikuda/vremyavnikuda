@@ -34,7 +34,7 @@ jobs:
           plugin_topics_mode: icons
           plugin_notable: yes
 
-      - name: 🦑 Recent activity
+      - name: Recent activity
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
