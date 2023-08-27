@@ -35,12 +35,11 @@ jobs:
           plugin_notable: yes
 
       - name: Recent activity
-        if: ${{success()||failure()}}
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.recent_activity.svg
           token: ${{secrets.METRICS_TOKEN}}
-          base: "main"
+          filename: metrics.plugin.recent_activity.svg
+          base: main
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 0
