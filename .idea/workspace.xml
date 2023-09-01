@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66936226-29c1-406e-add8-b55b93ca3c1e" name="Changes" comment="upd metrics.yml">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/metrics.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/metrics.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="66936226-29c1-406e-add8-b55b93ca3c1e" name="Changes" comment="upd metrics.yml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +69,7 @@
       <workItem from="1691899433853" duration="414000" />
       <workItem from="1691900820594" duration="746000" />
       <workItem from="1693115285776" duration="1915000" />
+      <workItem from="1693495361725" duration="29000" />
     </task>
     <task id="LOCAL-00001" summary="upload history.txt&#10;29.10.2022">
       <created>1667039211542</created>
