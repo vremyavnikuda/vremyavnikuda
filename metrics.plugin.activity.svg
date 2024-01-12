@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#38 docker</span>
+                                        <span class="issue">#40 offer</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">vremyavnikuda/NSTU</span></div>
-                                    <div>6 files changed <span class="code">++153 --32</span></div>
+                                    <div>6 files changed <span class="code">++132 --39</span></div>
                                 </div>
                             </section>
                         </div>
@@ -40,12 +40,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#38 docker</span>
+                                        <span class="issue">#40 offer</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">vremyavnikuda/NSTU</span></div>
-                                    <div>6 files changed <span class="code">++153 --32</span></div>
+                                    <div>6 files changed <span class="code">++132 --39</span></div>
                                 </div>
                             </section>
                         </div>
@@ -57,12 +57,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#36 backend api portal #1</span>
+                                        <span class="issue">#39 docker</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">vremyavnikuda/NSTU</span></div>
-                                    <div>3 files changed <span class="code">++49 --12</span></div>
+                                    <div>6 files changed <span class="code">++82 --52</span></div>
                                 </div>
                             </section>
                         </div>
@@ -74,12 +74,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#36 backend api portal #1</span>
+                                        <span class="issue">#39 docker</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">vremyavnikuda/NSTU</span></div>
-                                    <div>3 files changed <span class="code">++49 --12</span></div>
+                                    <div>6 files changed <span class="code">++82 --52</span></div>
                                 </div>
                             </section>
                         </div>
@@ -91,12 +91,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#34 backend api portal</span>
+                                        <span class="issue">#38 docker</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">vremyavnikuda/NSTU</span></div>
-                                    <div>21 files changed <span class="code">++4726 --314</span></div>
+                                    <div>6 files changed <span class="code">++153 --32</span></div>
                                 </div>
                             </section>
                         </div>
@@ -182,7 +182,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 5.04m out of 128m users</span>
+                                    <span class="gh">ranked 5.04m out of 127m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">12</div>
                                     </div>
@@ -235,7 +235,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.5462012320328578 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.7583846680355926 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
