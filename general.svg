@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="630" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="610" class="">
     <defs>
         <style/>
     </defs>
@@ -1123,15 +1123,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 618kb of code in 389 edited files across 170 commits over last 14 days</small>
+                <small>estimation from 555kb of code in 349 edited files across 169 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="220.13019642241784" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="220.13019642241784" y="0" width="173.34193790921339" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="393.4721343316312" y="0" width="66.52786566836878" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="266.1656304326372" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="266.1656304326372" y="0" width="193.8343695673628" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1143,9 +1142,9 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>2.41k lines</div>
-                                <div>76.3 kB</div>
-                                <div>47.85%</div>
+                                <div>2.40k lines</div>
+                                <div>76.2 kB</div>
+                                <div>57.86%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1156,22 +1155,9 @@
                                 Go
                             </div>
                             <small>
-                                <div>1.69k lines</div>
-                                <div>60.1 kB</div>
-                                <div>37.68%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Java
-                            </div>
-                            <small>
-                                <div>718 lines</div>
-                                <div>23 kB</div>
-                                <div>14.46%</div>
+                                <div>1.51k lines</div>
+                                <div>55.5 kB</div>
+                                <div>42.14%</div>
                             </small>
                         </div>
                     </section>
