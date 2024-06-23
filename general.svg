@@ -1110,14 +1110,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.72mb of code in 708 edited files across 105 commits over last 14 days</small>
+                <small>estimation from 1.70mb of code in 701 edited files across 103 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="232.21240929290656" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="232.21240929290656" y="0" width="227.78759070709344" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="297.2807143885928" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="297.2807143885928" y="0" width="162.71928561140717" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1131,7 +1131,7 @@
                             <small>
                                 <div>1.65k lines</div>
                                 <div>26.9 kB</div>
-                                <div>50.48%</div>
+                                <div>64.63%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1142,9 +1142,9 @@
                                 C++
                             </div>
                             <small>
-                                <div>836 lines</div>
-                                <div>26.4 kB</div>
-                                <div>49.52%</div>
+                                <div>567 lines</div>
+                                <div>14.7 kB</div>
+                                <div>35.37%</div>
                             </small>
                         </div>
                     </section>
