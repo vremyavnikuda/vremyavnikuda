@@ -8,3 +8,5 @@
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
   <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars" />
 </div>
+<div align="center">
+    <img align="center" src="https://www.codewars.com/users/vremyavnikuda/badges/small" alt="Codewars badge" width="390">
