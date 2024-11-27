@@ -15,7 +15,7 @@ jobs:
         uses: actions/github-script@v6
         with:
           filename: metrics.plugin.languages.details.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: >-
