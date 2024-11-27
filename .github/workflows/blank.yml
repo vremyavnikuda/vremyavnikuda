@@ -1,6 +1,19 @@
 name: Most used (with details)
-uses: lowlighter/metrics@latest
-with:
+on:
+  pull_request_target:
+    branches:
+      - main
+      - latest
+      - examples
+
+jobs:
+  notice:
+    name: Notice for automated branches
+    runs-on: ubuntu-latest
+    steps:
+      - name: Comment on pull request
+        uses: actions/github-script@v6
+        with:
   filename: metrics.plugin.languages.details.svg
   token: ${{ secrets.METRICS_TOKEN }}
   base: ""
@@ -10,3 +23,5 @@ with:
     gnuplot
   plugin_languages_details: bytes-size, percentage
   plugin_languages_limit: 4
+ 
+
