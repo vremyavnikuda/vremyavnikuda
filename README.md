@@ -13,5 +13,5 @@ ___
     <img align="center" src="https://www.codewars.com/users/vremyavnikuda/badges/small" alt="Codewars badge" width="390">
 
 ____
-![hopperplayer0@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![https://t.me/vremayvnikuda](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hopperplayer0@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vremayvnikuda)
