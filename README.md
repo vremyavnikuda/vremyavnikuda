@@ -7,5 +7,11 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
 
 </div>
+
+___
 <div align="center">
     <img align="center" src="https://www.codewars.com/users/vremyavnikuda/badges/small" alt="Codewars badge" width="390">
+
+____
+![hopperplayer0@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![https://t.me/vremayvnikuda](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
