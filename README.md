@@ -7,3 +7,6 @@
 If you want to do it well, do it twice
 ```
 </div>
+
+> You can't trust code that you did not totally create yourself.  
+> Ken Thompson
