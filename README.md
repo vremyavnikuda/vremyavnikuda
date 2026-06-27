@@ -19,6 +19,14 @@ vremyavnikuda@protonmail.com
     <em>"If you want to do it well, do it twice."</em>
   </blockquote>
 </div>
+<br>
+<div align="center">
+  <blockquote>
+    <em>"人が死んだとき、彼らはもう何も感じません、そしてそれは彼らにとって重要ではありません。
+それが痛いのは彼の周りの人々だけです。
+あなたが愚かであればそれは同じです。"</em>
+  </blockquote>
+</div>
 
 <br>
 
@@ -35,3 +43,5 @@ vremyavnikuda@protonmail.com
     <sub>— T. S. Eliot</sub>
   </blockquote>
 </div>
+
+
