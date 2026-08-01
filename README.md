@@ -13,25 +13,3 @@
 ```text
 vremyavnikuda@protonmail.com
 ```
-
-<div align="center">
-  <blockquote>
-    <em>"If you want to do it well, do it twice."</em>
-  </blockquote>
-</div>
-
-<br>
-
-<div align="center">
-  <blockquote>
-    <em>"You can't trust code that you did not totally create yourself."</em><br>
-    <sub>— Ken Thompson</sub>
-  </blockquote>
-</div>
-<br>
-<div align="center">
-  <blockquote>
-    <em>"We shall not cease from exploration. And the end of all our exploring will be to arrive where we started and know the place for the first time."</em><br>
-    <sub>— T. S. Eliot</sub>
-  </blockquote>
-</div>
